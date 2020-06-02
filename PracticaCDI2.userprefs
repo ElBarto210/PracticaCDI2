@@ -1,0 +1,15 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\PelotaRandom.cs">
+    <Files>
+      <File FileName="Assets\Pelota.cs" Line="6" Column="2" />
+      <File FileName="Assets\PelotaRandom.cs" Line="10" Column="130" />
+      <File FileName="Assets\Lanzador.cs" Line="28" Column="2" />
+      <File FileName="Assets\Marcador.cs" Line="8" Column="15" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
